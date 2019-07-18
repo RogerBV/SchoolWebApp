@@ -25,9 +25,15 @@ namespace Services.Implementation.SQL
             }
         }
 
-        public void Delete(int Id)
+        public RegisteredStudent Delete(DeletedStudent deletedStudent)
         {
-            throw new NotImplementedException();
+            using (SchoolDataContext schoolContext = new SchoolDataContext())
+            {
+                Student studentToDelete = (Student)schoolContext.Students.Where(b => b.Id == deletedStudent.Id).First();
+                schoolContext.Entry(studentToDelete).State = System.Data.Entity.EntityState.Deleted;
+                schoolContext.SaveChanges();
+                return studentToDelete.toDTO();
+            }
         }
 
         public List<RegisteredStudent> List()
@@ -44,9 +50,12 @@ namespace Services.Implementation.SQL
             {
                 var studentToUpdate = updateRegistry.ToEntity();
                 schoolContext.Students.Attach(studentToUpdate);
-                schoolContext.Entry(studentToUpdate).Property(x => x.Name).IsModified = true;
+                //schoolContext.Entry(studentToUpdate).Property(x => x.Name).IsModified = true;
+                schoolContext.Entry(studentToUpdate).State = System.Data.Entity.EntityState.Modified;
+                schoolContext.SaveChanges();
                 return studentToUpdate.toDTO();
             }
         }
+
     }
 }

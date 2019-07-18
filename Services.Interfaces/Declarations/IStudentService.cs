@@ -9,7 +9,7 @@ using Services.Interfaces.Responses;
 namespace Services.Interfaces.Declarations
 {
     public interface IStudentService:
-        ICRUDService<CreateStudent,UpdateStudent,RegisteredStudent>
+        ICRUDService<CreateStudent,UpdateStudent,RegisteredStudent,DeletedStudent>
     {
     }
 }

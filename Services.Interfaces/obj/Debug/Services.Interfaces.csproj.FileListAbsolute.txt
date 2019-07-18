@@ -8,3 +8,4 @@ C:\Users\roger\SchoolWebApp\Services.Interfaces\bin\Debug\Services.Interfaces.dl
 C:\Users\roger\SchoolWebApp\Services.Interfaces\bin\Debug\Services.Interfaces.pdb
 C:\Users\roger\SchoolWebApp\Services.Interfaces\obj\Debug\Services.Interfaces.dll
 C:\Users\roger\SchoolWebApp\Services.Interfaces\obj\Debug\Services.Interfaces.pdb
+C:\Users\roger\SchoolWebApp\Services.Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache

@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Services.Interfaces.Declarations.Common
 {
-    public interface ICRUDService<DTOCreate,DTOUpdate,DTORegistered>
+    public interface ICRUDService<DTOCreate,DTOUpdate,DTORegistered, DTODelete>
     {
         DTORegistered Create(DTOCreate newRegistry);
         List<DTORegistered> List();
         DTORegistered Update(DTOUpdate updateRegistry);
-        void Delete(int Id);
+        DTORegistered Delete(DTODelete Id);
 
     }
 }

@@ -45,6 +45,7 @@
     <Compile Include="Declarations\IStudentService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Requests\CreateStudent.cs" />
+    <Compile Include="Requests\DeletedStudent.cs" />
     <Compile Include="Requests\UpdateStudent.cs" />
     <Compile Include="Responses\RegisteredStudent.cs" />
   </ItemGroup>

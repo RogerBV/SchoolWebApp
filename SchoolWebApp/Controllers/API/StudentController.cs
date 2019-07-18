@@ -27,6 +27,11 @@ namespace SchoolWebApp.Controllers.API
         {
             return this._studentService.Update(reg);
         }
+        [HttpPatch]
+        public RegisteredStudent Delete(DeletedStudent deletedStudent)
+        {
+            return this._studentService.Delete(deletedStudent);
+        }
         [HttpGet]
         public List<RegisteredStudent> List()
         {
