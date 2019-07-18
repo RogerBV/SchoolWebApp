@@ -1,0 +1,14 @@
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\Infraestructure.SQLEFRepository.dll.config
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\Infraestructure.SQLEFRepository.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\Infraestructure.SQLEFRepository.pdb
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\Domain.Entities.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\EntityFramework.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\Domain.Entities.pdb
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\EntityFramework.xml
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\obj\Debug\Infraestructure.SQLEFRepository.csprojAssemblyReference.cache
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\obj\Debug\Infraestructure.SQLEFRepository.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\obj\Debug\Infraestructure.SQLEFRepository.csproj.CopyComplete
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\obj\Debug\Infraestructure.SQLEFRepository.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infraestructure.SQLEFRepository\obj\Debug\Infraestructure.SQLEFRepository.pdb

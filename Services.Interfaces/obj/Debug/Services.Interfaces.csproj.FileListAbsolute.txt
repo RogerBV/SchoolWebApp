@@ -1,0 +1,6 @@
+C:\Users\roger\source\repos\SchoolWebApp\Services.Interfaces\bin\Debug\Services.Interfaces.dll
+C:\Users\roger\source\repos\SchoolWebApp\Services.Interfaces\bin\Debug\Services.Interfaces.pdb
+C:\Users\roger\source\repos\SchoolWebApp\Services.Interfaces\obj\Debug\Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\roger\source\repos\SchoolWebApp\Services.Interfaces\obj\Debug\Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\SchoolWebApp\Services.Interfaces\obj\Debug\Services.Interfaces.dll
+C:\Users\roger\source\repos\SchoolWebApp\Services.Interfaces\obj\Debug\Services.Interfaces.pdb

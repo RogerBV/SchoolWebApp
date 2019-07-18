@@ -1,0 +1,6 @@
+C:\Users\roger\source\repos\SchoolWebApp\Domain.Entities\bin\Debug\Domain.Entities.dll
+C:\Users\roger\source\repos\SchoolWebApp\Domain.Entities\bin\Debug\Domain.Entities.pdb
+C:\Users\roger\source\repos\SchoolWebApp\Domain.Entities\obj\Debug\Domain.Entities.csprojAssemblyReference.cache
+C:\Users\roger\source\repos\SchoolWebApp\Domain.Entities\obj\Debug\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\SchoolWebApp\Domain.Entities\obj\Debug\Domain.Entities.dll
+C:\Users\roger\source\repos\SchoolWebApp\Domain.Entities\obj\Debug\Domain.Entities.pdb

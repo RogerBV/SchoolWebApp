@@ -1,0 +1,11 @@
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\bin\Debug\Infrastructure.DataMapping.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\bin\Debug\Infrastructure.DataMapping.pdb
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\bin\Debug\Domain.Entities.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\bin\Debug\Services.Interfaces.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\bin\Debug\Domain.Entities.pdb
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\bin\Debug\Services.Interfaces.pdb
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\obj\Debug\Infrastructure.DataMapping.csprojAssemblyReference.cache
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\obj\Debug\Infrastructure.DataMapping.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\obj\Debug\Infrastructure.DataMapping.csproj.CopyComplete
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\obj\Debug\Infrastructure.DataMapping.dll
+C:\Users\roger\source\repos\SchoolWebApp\Infrastructure.DataMapping\obj\Debug\Infrastructure.DataMapping.pdb
