@@ -22,6 +22,11 @@ namespace SchoolWebApp.Controllers.API
         {
             return this._studentService.Create(newStudent);
         }
+        [HttpPut]
+        public RegisteredStudent Update(UpdateStudent reg)
+        {
+            return this._studentService.Update(reg);
+        }
         [HttpGet]
         public List<RegisteredStudent> List()
         {
