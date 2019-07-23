@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Interfaces", "Serv
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{A494BCDE-9FE6-4521-AEDF-8EF850513DD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolWebAppCore", "SchoolWebAppCore\SchoolWebAppCore.csproj", "{11AF6D90-4BA4-4188-9083-8A9A0B1B84BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{51F26B3F-556F-4A16-9CB4-5A6F29C6216E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51F26B3F-556F-4A16-9CB4-5A6F29C6216E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51F26B3F-556F-4A16-9CB4-5A6F29C6216E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AF6D90-4BA4-4188-9083-8A9A0B1B84BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AF6D90-4BA4-4188-9083-8A9A0B1B84BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AF6D90-4BA4-4188-9083-8A9A0B1B84BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AF6D90-4BA4-4188-9083-8A9A0B1B84BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{473F7D92-52ED-4A3E-8F40-F34825983AFC} = {56AC680C-7BAB-45AF-92B2-1CDD0C334492}
 		{A01E38ED-A9DA-4D42-81EB-02BE66E2E4F7} = {A43C547D-ECC4-472F-BC2F-99D476016B2D}
 		{51F26B3F-556F-4A16-9CB4-5A6F29C6216E} = {A43C547D-ECC4-472F-BC2F-99D476016B2D}
+		{11AF6D90-4BA4-4188-9083-8A9A0B1B84BF} = {A494BCDE-9FE6-4521-AEDF-8EF850513DD3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {519DAAD7-3DD8-4204-B4C5-A158BA8E2BF4}
